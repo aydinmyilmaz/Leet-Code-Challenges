@@ -1,3 +1,3 @@
 # Leet-Code-Challenges
-Hi everyone... You can find here my Python Solutions for some Leetcode Problems.
+Hi everyone... You can find here my Python Solutions for some Leetcode Problems.LeetCode have helped me a lot to improve my coding skills at the very beginning of my python and data science adventure. I have learned practiced a lot. I wish I had time to struggle @ LeetCode again, it was also fun for me...
 https://leetcode.com/problemset/all/ 
